@@ -68,7 +68,7 @@ endmodule
 ![exp08 digi](https://github.com/user-attachments/assets/b92210c3-a11f-42e9-801d-ab2ee22284d3)
 
 
-**TIMING DIAGARM**
+**OUTPUT**
 
 
 ![output 8](https://github.com/user-attachments/assets/965bf2ab-3c62-441f-9efe-e083249c1630)
